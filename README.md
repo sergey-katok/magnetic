@@ -1,0 +1,2 @@
+# magnetic
+Visualizer magnetic fiels
