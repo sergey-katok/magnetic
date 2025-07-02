@@ -8,7 +8,7 @@ For immediate image output run the script in the browser as cgi.
 Demo: https://integralsd.com/sergey/programming/magnetic/
 
 Required Perl modules:
-Math::Cephes
+Math::Cephes, 
 Image::Magick
 
 
